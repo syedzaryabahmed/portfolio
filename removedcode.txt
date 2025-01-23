@@ -1,0 +1,236 @@
+<!-- BLOG SECTION STARTS -->
+<section class="blog main-section flex-column-mobile" id="blog">
+  <!-- TITLE STARTS -->
+  <div class="custom-title">
+    <!-- MAIN TITLE STARTS -->
+    <h3>
+      <span>
+        <span class="animated-layer fade-in-left-animation fadeInUp wow">
+          Latest Posts
+        </span>
+      </span>
+    </h3>
+    <!-- MAIN TITLE ENDS -->
+  </div>
+  <!-- TITLE ENDS -->
+  <!-- LATEST POSTS STARTS -->
+  <div class="latestposts flex-column-mobile">
+    <!-- POST ITEM STARTS -->
+    <div class="animated-layer fade-in-right-animation fadeInUp wow">
+      <a href="blog-post.html">
+        <span class="img-holder">
+          <img src="assets/blog/blog-post-1.jpg" alt="" />
+        </span>
+        <div class="content">
+          <span class="category">design</span>
+          <span class="title">
+            How To Publish Content That Ranks On Google
+          </span>
+          <p>
+            ncididunt ut labore et dolore magna aliqua. Ut enim aminim veniam...
+          </p>
+          <div class="meta d-flex align-items-center">
+            <div class="d-flex align-items-center">
+              <i class="fa-regular fa-calendar"></i>
+              <span>9 Apr 2022</span>
+            </div>
+            <div class="d-flex align-items-center">
+              <i class="fa-regular fa-comments"></i>
+              <span>17 comments</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <!-- POST ITEM ENDS -->
+    <!-- POST ITEM STARTS -->
+    <div class="animated-layer fade-in-right-animation fadeInUp wow">
+      <a href="blog-post.html">
+        <span class="img-holder">
+          <img src="assets/blog/blog-post-2.jpg" alt="" />
+        </span>
+        <div class="content">
+          <span class="category">development</span>
+          <span class="title">
+            How Efficient Site Structure Can Boost SEO
+          </span>
+          <p>
+            ncididunt ut labore et dolore magna aliqua. Ut enim aminim veniam...
+          </p>
+          <div class="meta d-flex align-items-center">
+            <div class="d-flex align-items-center">
+              <i class="fa-regular fa-calendar"></i>
+              <span>21 Feb 2022</span>
+            </div>
+            <div class="d-flex align-items-center">
+              <i class="fa-regular fa-comments"></i>
+              <span>34 comments</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <!-- POST ITEM ENDS -->
+    <!-- POST ITEM STARTS -->
+    <div class="animated-layer fade-in-right-animation fadeInUp wow">
+      <a href="blog-post.html">
+        <span class="img-holder">
+          <img src="assets/blog/blog-post-3.jpg" alt="" />
+        </span>
+        <div class="content">
+          <span class="category">essentials</span>
+          <span class="title"> Change Management for Customer Success </span>
+          <p>
+            ncididunt ut labore et dolore magna aliqua. Ut enim aminim veniam...
+          </p>
+          <div class="meta d-flex align-items-center">
+            <div class="d-flex align-items-center">
+              <i class="fa-regular fa-calendar"></i>
+              <span>1 Jan 2022</span>
+            </div>
+            <div class="d-flex align-items-center">
+              <i class="fa-regular fa-comments"></i>
+              <span>10 comments</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <!-- POST ITEM ENDS -->
+  </div>
+  <!-- LATEST POSTS ENDS -->
+</section>
+<!-- BLOG SECTION ENDS -->
+
+
+
+
+<!-- CLIENTS SECTION STARTS -->
+          <section class="clients">
+            <div
+              class="clients-container animated-layer fade-in-right-animation fadeInUp wow"
+            >
+              <h3>My Clients</h3>
+              <div class="swiper swiper-clients fadeInUp wow">
+                <div class="swiper-wrapper">
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/themeforest-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/photodune-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/graphicriver-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/codecanyon-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/audiojungle-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/activeden-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/3docean-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/themeforest-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/activeden-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/audiojungle-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                  <!-- SWIPER ITEM STARTS -->
+                  <div class="swiper-slide">
+                    <div>
+                      <img
+                        src="assets/logos/graphicriver-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                    <div>
+                      <img
+                        src="assets/logos/codecanyon-dark-background.png"
+                        alt="client"
+                      />
+                    </div>
+                  </div>
+                  <!-- SWIPER ITEM ENDS -->
+                </div>
+                <div class="swiper-pagination"></div>
+              </div>
+            </div>
+            <img
+              alt=""
+              class="z-1 hide-mobile opposite-separator"
+              src="assets/separator-opposite.png"
+            />
+          </section>
+          <!-- CLIENTS SECTION ENDS -->
+
+          <!-- SINGE FACT ITEM STARTS -->
+              <div
+                class="animated-layer fade-in-right-animation fadeInRight wow"
+                data-wow-offset="200"
+              >
+                <div>
+                  <div>
+                    <h3>13</h3>
+                    <p>awards<span>won</span></p>
+                  </div>
+                </div>
+              </div>
+              <!-- SINGE FACT ITEM ENDS -->
